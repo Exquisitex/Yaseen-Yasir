@@ -1,0 +1,225 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-weight: normal;
+  color: #40514E;
+}
+
+
+
+h1 {
+  margin: 0 auto 50px auto;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  color: #78c4d4;
+  font-size: 5.625rem;
+}
+
+p {
+  width: 20%;
+  margin: auto;
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: left;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #78c4d4;
+  font-size: 2.5rem;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+margin: 30px auto 30px auto;
+width: 6px;
+color:#EAF6F6;
+background-color:#EAF6F6;
+border: dotted 6px;
+display: inline-block;
+border-bottom: none;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAf6f6;
+}
+
+
+
+
+
+/***********************************Class Styles****************************/
+
+
+
+
+
+
+.Top-Container {
+  background-color: #e4fbff;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.Doc1 {
+  width: 300px;
+  margin: auto auto 50px auto;
+}
+
+.Cloud1 {
+  position: absolute;
+  left: 200px;
+  top: 50px;
+}
+
+.Cloud2 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+
+
+.Middle-Container {
+  background-color: #f4f9f9;
+  padding-bottom: 500px;
+  padding-top: 50px;
+}
+
+
+.Doc2 {
+  width: 300px;
+  float: left;
+  padding-right: 50px;
+}
+
+.Doc3 {
+  width: 300px;
+  float: right;
+  margin-left: 50px;
+
+}
+
+
+.offer {
+  margin: 50px auto 50px auto;
+  padding-top: 100px;
+}
+
+
+.bio-skill {
+  width: 50%;
+  margin: auto;
+}
+
+.Bio-title {
+  text-align: left;
+
+
+}
+
+.Bio-description {
+  width: auto;
+
+
+}
+
+.what-to-offer {
+  width: 50%;
+  margin: auto;
+  padding-top: 300px;
+  text-align: center;
+}
+
+.offer-description {
+  width: auto;
+}
+
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.Bot-Container {
+  margin: 100px auto 50px;
+}
+
+
+.Contact-info {
+  padding-bottom: 50px;
+}
+
+.contact-massage {
+ margin: 10px auto 50px;
+}
+
+.Bot-Container {
+  background-color: #66bfbf;
+  margin: 30px auto 0;
+  padding-top: 50px;
+
+}
+
+.copy-right {
+ margin: 20px auto auto auto;
+ text-align: center;
+}
+
+
+.jeunessepng {
+  width: 500px;
+  padding-right: 50px;
+}
+
+.Jeunesse-Section {
+  width: 50%;
+  margin: auto;
+  padding-top: 500px;
+
+}
+
+.Jeunessew-title {
+  text-align: left;
+}
+
+.Jeunesse-description {
+  width: auto;
+  text-align: center;
+  color: #D54C4C;
+}
